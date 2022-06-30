@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Anisha Roy</h1>
 <h3 align="center">I am currently pursuing BTech on CSE from Kalinga Institute of Industrial Technology(2024 batch).</h3>
 
